@@ -1,3 +1,5 @@
+@media only screen and (max-width: 992px)
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -24,6 +26,20 @@ footer {
     text-align: center;
 }
 
-.main-container {
-    background-image: url("white.jpg");
+#profile-img {
+    height: 150px;
+    float: left;
+
+}
+
+.lets-connect {
+    font-weight: bolder;
+    color: #DE5C9D;
+    border-style: double;
+    border: #DE5C9D;
+    text-align: center;
+}
+
+.card-center {
+
 }
