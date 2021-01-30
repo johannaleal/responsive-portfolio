@@ -45,6 +45,12 @@
     text-align: center;
 }
 
+/* Contact page button styling */
+.btn {
+    background-color:#DE5C9D;
+    border-color: #DE5C9D;
+}
+
 /* Footer styling */
 footer {
     text-align: center;
