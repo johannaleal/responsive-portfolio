@@ -12,6 +12,12 @@
     color: #DE5C9D;
 }
 
+.main-container, 
+.card-body
+{
+    background-image: url("light-blue.png");
+}
+
 /* Name header styling */
 .name-hdr {
     font-size: 16px;
