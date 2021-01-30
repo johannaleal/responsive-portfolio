@@ -1,11 +1,10 @@
-@media only screen and (max-width: 992px)
-
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* About Mr header styling */
 .about-me {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: x-large;
@@ -13,6 +12,7 @@
     color: #DE5C9D;
 }
 
+/* Name header styling */
 .name-hdr {
     font-size: 16px;
     background-color: #DE5C9D;
@@ -23,16 +23,20 @@
     text-align: center;
 }
 
-footer {
-    text-align: center;
+/* Navbar styling */
+.navbar-brand {
+    color: white; 
+    font-size: 24x
 }
 
+/* Profile image styling */
 #profile-img {
     height: 150px;
     float: left;
 
 }
 
+/* Let's Connect card body styling */
 .lets-connect {
     font-weight: bolder;
     color: #DE5C9D;
@@ -41,6 +45,7 @@ footer {
     text-align: center;
 }
 
-.card-center {
-
+/* Footer styling */
+footer {
+    text-align: center;
 }
