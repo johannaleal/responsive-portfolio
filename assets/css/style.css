@@ -78,3 +78,21 @@
 footer {
     text-align: center;
 }
+
+/* Styling for p tags */
+@media (min-width: 600px) {
+    p {
+      font-size: 1.25 rem;
+      padding-right: 10px;
+    }
+    .main-container {
+        padding-right: 20px;
+    }
+  }
+  
+@media (min-width: 800px) {
+    p {
+      font-size: 1.5rem;
+      line-height: 2.5rem;
+    }
+  }
